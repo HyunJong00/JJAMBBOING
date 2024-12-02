@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <script>
+      // 현재 URL을 해석하여 루트 경로로 리디렉션
+      var redirect = function () {
+        var path = window.location.pathname || "/";
+        var newUrl = "/" + path.substring(path.indexOf("/") + 1);
+        window.location.replace(newUrl);
+      };
+      redirect();
+    </script>
+  </head>
+  <body>
+    Redirecting...
+  </body>
+</html>
