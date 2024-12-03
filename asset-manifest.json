@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://HyunJong00.github.io/JJAMBBONG/static/css/main.3aebdc68.css",
-    "main.js": "https://HyunJong00.github.io/JJAMBBONG/static/js/main.b61bb774.js",
+    "main.js": "https://HyunJong00.github.io/JJAMBBONG/static/js/main.d9919fca.js",
     "static/media/나눔손글씨 성실체.ttf": "https://HyunJong00.github.io/JJAMBBONG/static/media/나눔손글씨 성실체.2b74074bed920937ac2b.ttf",
     "static/media/tamtam.svg": "https://HyunJong00.github.io/JJAMBBONG/static/media/tamtam.bbeb27b07006698d817cfc97c058e8f0.svg",
     "static/media/icon_gptprofile.png": "https://HyunJong00.github.io/JJAMBBONG/static/media/icon_gptprofile.a2e20df56c6848a9d92b.png",
@@ -13,10 +13,10 @@
     "index.html": "https://HyunJong00.github.io/JJAMBBONG/index.html",
     "static/media/icon_x.svg": "https://HyunJong00.github.io/JJAMBBONG/static/media/icon_x.70bbb72495482f117810d7dfbbde88b7.svg",
     "main.3aebdc68.css.map": "https://HyunJong00.github.io/JJAMBBONG/static/css/main.3aebdc68.css.map",
-    "main.b61bb774.js.map": "https://HyunJong00.github.io/JJAMBBONG/static/js/main.b61bb774.js.map"
+    "main.d9919fca.js.map": "https://HyunJong00.github.io/JJAMBBONG/static/js/main.d9919fca.js.map"
   },
   "entrypoints": [
     "static/css/main.3aebdc68.css",
-    "static/js/main.b61bb774.js"
+    "static/js/main.d9919fca.js"
   ]
 }
