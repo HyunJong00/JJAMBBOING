@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JJAMBBONG/static/css/main.1faf5daf.css",
-    "main.js": "/JJAMBBONG/static/js/main.1677f1e6.js",
+    "main.js": "/JJAMBBONG/static/js/main.099dbb7c.js",
     "static/media/나눔손글씨 성실체.ttf": "/JJAMBBONG/static/media/나눔손글씨 성실체.2b74074bed920937ac2b.ttf",
     "static/media/tamtam.svg": "/JJAMBBONG/static/media/tamtam.bbeb27b07006698d817cfc97c058e8f0.svg",
     "static/media/icon_gptprofile.png": "/JJAMBBONG/static/media/icon_gptprofile.a2e20df56c6848a9d92b.png",
@@ -15,10 +15,10 @@
     "static/media/kakao_logo.svg": "/JJAMBBONG/static/media/kakao_logo.ef797682ef33a681b30032cd4ab85f81.svg",
     "static/media/icon_x.svg": "/JJAMBBONG/static/media/icon_x.70bbb72495482f117810d7dfbbde88b7.svg",
     "main.1faf5daf.css.map": "/JJAMBBONG/static/css/main.1faf5daf.css.map",
-    "main.1677f1e6.js.map": "/JJAMBBONG/static/js/main.1677f1e6.js.map"
+    "main.099dbb7c.js.map": "/JJAMBBONG/static/js/main.099dbb7c.js.map"
   },
   "entrypoints": [
     "static/css/main.1faf5daf.css",
-    "static/js/main.1677f1e6.js"
+    "static/js/main.099dbb7c.js"
   ]
 }
